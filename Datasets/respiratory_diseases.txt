@@ -1,0 +1,33 @@
+Data Set Information:
+
+The Exasens dataset includes demographic information on 4 groups of saliva samples (COPD-Asthma-Infected-HC) collected in the frame of a joint research project, Exasens ([Web Link]), at the Research Center Borstel, BioMaterialBank Nord (Borstel, Germany). The sampling procedure of the patient materials was approved by the local ethics committee of the University of Luebeck under the approval number AZ-16-167 and a written informed consent was obtained from all subjects. A permittivity biosensor, developed at IHP Microelectronics (Frankfurt Oder, Germany), was used for the dielectric characterization of the saliva samples for classification purposes ([Web Link]).
+
+Definition of 4 sample groups included within the Exasens dataset:
+
+(I) Outpatients and hospitalized patients with COPD without acute respiratory infection (COPD).
+
+(II) Outpatients and hospitalized patients with asthma without acute respiratory infections (Asthma).
+
+(III) Patients with respiratory infections, but without COPD or asthma (Infected).
+
+(IV) Healthy controls without COPD, asthma, or any respiratory infection (HC).
+
+
+Attribute Information:
+
+1- Diagnosis (COPD-HC-Asthma-Infected)
+
+2- ID
+
+3- Age
+
+4- Gender (1=male, 0=female)
+
+5- Smoking Status (1=Non-smoker, 2=Ex-smoker, 3=Active-smoker)
+
+6- Saliva Permittivity:
+
+a) Imaginary part (Min(Î”)=Absolute minimum value, Avg.(Î”)=Average)
+
+b) Real part (Min(Î”)=Absolute minimum value, Avg.(Î”)=Average)
+

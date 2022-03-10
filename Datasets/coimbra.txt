@@ -1,0 +1,36 @@
+Breast Cancer Coimbra
+Clinical features were observed or measured for 64 patients with breast cancer and 52 healthy controls.
+
+Attribute Information:
+
+Quantitative Attributes:
+Age (years)
+BMI (kg/m2)
+Glucose (mg/dL)
+Insulin (µU/mL)
+HOMA
+Leptin (ng/mL)
+Adiponectin (µg/mL)
+Resistin (ng/mL)
+MCP-1(pg/dL)
+
+Labels:
+1=Healthy controls
+2=Patients
+
+
+Data Set Characteristics:  
+Multivariate
+Number of Instances:
+116
+Area:
+Life
+Attribute Characteristics:
+Integer
+
+Number of Attributes:10
+Date Donated: 2018-03-06
+Associated Tasks:
+Classification
+Missing Values? N/A
+Number of Web Hits: 114290
