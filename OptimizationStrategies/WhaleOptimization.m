@@ -42,9 +42,9 @@ end
 
  %%
  
-fig = uifigure;
-d = uiprogressdlg(fig,'Title','Please Wait',...
-        'Message','Opening the application');
+% fig = uifigure;
+% d = uiprogressdlg(fig,'Title','Please Wait',...
+%         'Message','Opening the application');
 
 
 Convergence_curve=zeros(1,Max_iter);
@@ -55,7 +55,7 @@ t=0;% Loop counter
 % Main loop
 while t<Max_iter
     %display progress bar
-    progressbar(d,t,Max_iter);       
+    %progressbar(d,t,Max_iter);       
     for i=1:size(Positions,1)
         
         % Return back the search agents that go beyond the boundaries of the search space

@@ -29,7 +29,7 @@ function progressbar(d,current_iteration,Max_iteration)
 
     % Finish calculations
     % ...
-    d.Value = progressValue;
+    d.Value = 1;
     d.Message = 'SVM optimized!';
     pause(1)
     close(d)

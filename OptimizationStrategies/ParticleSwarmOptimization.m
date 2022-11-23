@@ -52,9 +52,9 @@ for i=1:NB
 end
 
 %%Initialize loading
-fig_pso = uifigure;
-d_pso = uiprogressdlg(fig_pso,'Title','Please Wait',...
-        'Message','Opening the application');
+% fig_pso = uifigure;
+% d_pso = uiprogressdlg(fig_pso,'Title','Please Wait',...
+%         'Message','Opening the application');
 
 
 % Save personal best
@@ -72,7 +72,7 @@ W_vector= W;
 % The stop criterium is as the following
 while iter<Max_iter
     
-    progressbar(d_pso,iter,Max_iter);       
+%     progressbar(d_pso,iter,Max_iter);       
     
     xx= [];
     yy= [];
