@@ -2,7 +2,7 @@
 
 [![N|Solid](https://firebasestorage.googleapis.com/v0/b/github-resources.appspot.com/o/SVMDiseaseDiagnosisAssistant%2FTest.JPG?alt=media&token=bd37a960-31e4-4734-b1bf-08d30b9902b9)](https://nodesource.com/products/nsolid)
 
-A nature-inspired metaheuristic optimized SVM Disease Diagnosis Assistant.
+A nature-inspired metaheuristic optimized AI powered Disease Diagnosis Assistant.
 
 MATLAB 2019b
 
